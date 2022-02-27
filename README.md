@@ -3,6 +3,8 @@
 # JetpackComposeRecyclerView
 ***A minimalistic Android application Created to describe the process of creating Recyclerview with Jetpack Compose.***
 
+### <br/><br/>There is an [ article](https://farhan-tanvir.medium.com/how-to-use-jetpack-compose-for-recyclerview-a38e65cc7b63) about this . Please check it 🙏.
+
 
 ## <br/><br/> How to run this app
 
